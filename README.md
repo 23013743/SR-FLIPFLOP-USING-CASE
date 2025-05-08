@@ -1,4 +1,4 @@
-## EXP N:6
+## EXP NO:6
 
 # SR-FLIPFLOP-USING-CASE
 # Name: NIRMAL N
